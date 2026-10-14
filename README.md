@@ -4,7 +4,6 @@ A three-site enterprise network secured with **FortiGate firewalls**, designed a
 
 ![Network Topology](./Topology%20Screen.png)
 
-> Add your topology screenshot at `docs/images/topology.png`. A text diagram is also included below.
 
 ---
 
