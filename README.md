@@ -2,7 +2,7 @@
 
 A three-site enterprise network secured with **FortiGate firewalls**, designed and built in **PNETLab**. The lab has a headquarters with a high-availability firewall cluster, two branch offices connected by IPsec VPN, and a remote user connected by SSL-VPN.
 
-![Network topology](docs/images/topology.png)
+![Network Topology](./Topology%20Screen.png)
 
 > Add your topology screenshot at `docs/images/topology.png`. A text diagram is also included below.
 
